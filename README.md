@@ -8,6 +8,11 @@ Yaratıcı ve yenilikçi çözümler üretmek için hem programlama hem de elekt
 
 Yaratıcı ve dinamik bir çalışma ortamında yeni fırsatlar keşfetmek ve geleceğin teknolojilerine katkıda bulunmak için heyecanlıyım. Kendi bilgi ve deneyimlerimle katkı sağlamak ve bir ekip olarak hedeflere ulaşmak için çalışmaktan mutluluk duyarım.
 
+[GitHub Pages](https://emrecellebi.github.io/pages-1) | [GitHub Repo](https://github.com/emrecellebi/pages-1)
+
+# Projects
+* [1. Python PyQt - fstudios](notes/fstudios.md)
+
 # Social Media
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ykHSqfQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emrecellebi) [![Facebook](https://img.shields.io/badge/Facebook-%233a5998.svg?logo=facebook&logoColor=white)](https://www.facebook.com/emrecellebi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emrecellebi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@emrecellebi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/emrecellebi) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/emrecellebi) [![Patreon](https://img.shields.io/badge/Patreon-%23F96854.svg?logo=patreon&logoColor=black)](https://www.patreon.com/emrecelebi) [![Gitlab](https://img.shields.io/badge/Gitlab-%23FC6D26.svg?logo=gitlab&logoColor=white)](https://gitlab.com/emrecellebi) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@emrecellebi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23ff0000.svg?logo=pinterest&logoColor=white)](https://pinterest.com/emrecellebi) [![SoundCloud](https://img.shields.io/badge/SoundCloud-%23ff3300.svg?logo=soundcloud&logoColor=white)](https://soundcloud.com/emrecellebi) [![Tumblr](https://img.shields.io/badge/Tumblr-%2334526f.svg?logo=tumblr&logoColor=white)](https://emrecellebi.tumblr.com) [![Blogger](https://img.shields.io/badge/Blogger-%23fc4f08.svg?logo=blogger&logoColor=white)](https://unexpectedxxx.blogspot.com)
 
