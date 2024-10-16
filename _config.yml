@@ -1,14 +1,2 @@
 theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
-
-title: "Benim Jekyll Sitem"
-description: "Kendi Jekyll blog sitem"
-baseurl: "" 
-url: "https://emrecellebi.github.io" # GitHub Pages URL'niz
-
-markdown: kramdown
-permalink: /:categories/:title.html
-
-# Blog yazıları için ayarlar
-paginate: 5
-paginate_path: "/sayfa/:num/"
