@@ -1,12 +1,18 @@
 # Profile
 
-Lise mezunu bir öğrenciyim ve yoğun bir şekilde Java programlama dili ve elektronik alanlarında kendimi geliştirmekteyim. Java'da ileri düzeyde bilgi ve deneyim sahibiyim ve ayrıca Spring Framework'ü kullanma becerisine sahibim. Elektronik konusunda da deneyimlerim bulunmaktadır. Elektronik projeler üzerinde çalışarak, devre tasarımı, lehimleme ve prototipleme gibi alanlarda kendimi ilerletmekteyim
+Yazılım geliştirme alanında deneyimli, sürekli öğrenmeye ve kendini geliştirmeye odaklanan bir yazılım geliştiricisiyim. 2012-2018 yılları arasında Açık Öğretim Lisesi eğitimimi tamamlayarak lise mezunu oldum.
 
-Ayrıca geçmişimde CNC operatörlüğü konusunda stajyer olarak çalışma deneyimim bulunmaktadır. Stajyer olarak CNC makineleriyle çalışma fırsatı elde ettim ve bu alanda temel bilgiler edindim. Bu deneyim, beni hassasiyet, disiplin ve ekip çalışması konularında güçlendirdi.
+15.01.2021 - 02.10.2026 tarihleri arasında Farktör Yazılım bünyesinde yazılım geliştirme alanında çalıştım. Bu süreçte C/C++, Java ve Python başta olmak üzere farklı programlama dilleri ve teknolojiler üzerinde profesyonel olarak çalışma fırsatı buldum. Java ve Spring Boot kullanarak mikroservis tabanlı uygulamalar geliştirdim. Geliştirdiğim servislerde e-Arşiv, e-Fatura ve pazaryeri entegrasyonları üzerinde çalışarak farklı üçüncü parti sistemlerle entegrasyon süreçlerini gerçekleştirdim.
 
-Yaratıcı ve yenilikçi çözümler üretmek için hem programlama hem de elektronik bilgilerimi birleştirme konusunda hevesliyim. İleri teknolojiler ve projeler üzerinde çalışmayı ve takım ortamında işbirliği yapmayı seviyorum. Sürekli öğrenmeye ve kendimi geliştirmeye odaklanarak, hem Java programlama dilinde hem de elektronik konularında bilgilerimi ve becerilerimi genişletmeye devam ediyorum.
+Çalışmalarım kapsamında Uyumsoft, Turkcell e-Faturam, Hepsiburada e-Faturam gibi e-belge sistemleri ile; Trendyol, Hepsiburada, N11, Boyner, LC Waikiki, Idefix, Çiçeksepeti ve Pazarama gibi farklı pazaryeri ve e-ticaret platformlarıyla entegrasyonlar geliştirdim. Bu projelerde API entegrasyonları, veri alışverişi, servis geliştirme ve farklı sistemler arasındaki iletişim süreçleri üzerinde çalıştım.
 
-Yaratıcı ve dinamik bir çalışma ortamında yeni fırsatlar keşfetmek ve geleceğin teknolojilerine katkıda bulunmak için heyecanlıyım. Kendi bilgi ve deneyimlerimle katkı sağlamak ve bir ekip olarak hedeflere ulaşmak için çalışmaktan mutluluk duyarım.
+Teknik olarak Java, Spring Boot, C/C++, Python, Qt, MongoDB ve SQL teknolojileriyle çalışmanın yanı sıra, VCenter üzerinden sanal makinelerin oluşturulması ve yönetilmesi konusunda da deneyim kazandım. Yazılım geliştirme süreçlerinde backend servisleri, mikroservis mimarileri, veritabanı işlemleri ve farklı sistemlerin entegrasyonu üzerine yoğunlaştım.
+
+Yazılımın yanı sıra elektronik alanına da ilgi duyuyor ve bu alanda kendimi geliştirmeye devam ediyorum. Devre tasarımı, lehimleme ve prototipleme gibi konularda çalışmalar yaparak yazılım ve elektronik bilgimi bir araya getirmeyi hedefliyorum.
+
+Geçmişimde CNC operatörlüğü alanında staj deneyimim de bulunmaktadır. Bu süreçte CNC makineleriyle çalışma fırsatı edinerek üretim süreçleri, hassasiyet, disiplin ve ekip çalışması konularında deneyim kazandım.
+
+Farklı teknolojilerle çalışmaya, yeni sistemler öğrenmeye ve gerçek dünyadaki problemlere sürdürülebilir yazılım çözümleri geliştirmeye önem veriyorum. Özellikle backend geliştirme, mikroservis mimarileri, entegrasyon projeleri ve farklı sistemlerin birbiriyle haberleşmesini sağlayan yazılım çözümleri üzerine kendimi geliştirmeye devam ediyorum.
 
 [GitHub Pages](https://emrecellebi.github.io/pages-1) | [GitHub Repo](https://github.com/emrecellebi/pages-1)
 
